@@ -6,7 +6,7 @@ ViSession  defRM;	  //定义系统资源会话变量
 int cnt; //定义计数器变量
 
 
-// modified by feature-d
+// in work tree
 char inbuf[128];  //定义输入缓冲区
 int main()
 {
