@@ -1,5 +1,6 @@
-#include <visa.h>
 //feature-b
+#include <visa.h>
+
 #include <stdio.h>
 
 ViStatus status;	  //定义状态变量
